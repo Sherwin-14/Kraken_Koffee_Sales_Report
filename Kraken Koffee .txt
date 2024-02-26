@@ -1,0 +1,9 @@
+Kraken Koffee 
+
+Problem Statment-Kraken Coffee, a popular coffee shop chain, is seeking to optimize its store performance across three locations in Florida. Despite consistent footfall, there have been variations in sales and customer satisfaction across these stores. The objective of this project is to analyze the performance of these stores and identify the factors contributing to these variations.
+
+We aim to create a comprehensive infographic that visually represents key performance indicators such as sales, customer footfall, and customer satisfaction ratings. This infographic will aid in understanding the current performance trends and identifying areas of improvement. The ultimate goal is to leverage these insights to enhance store performance, improve customer satisfaction, and increase overall profitability in a practical business environment.
+
+
+
+

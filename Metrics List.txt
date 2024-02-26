@@ -1,0 +1,16 @@
+                                         Metrics List
+
+
+1. Total Sales
+
+2. Average Order Size
+
+3. No of Stores
+
+4. Total Number of Stores
+
+5. Best Seller
+
+6. Best Seller (Quantity)
+
+7. Total number of Purchases.
